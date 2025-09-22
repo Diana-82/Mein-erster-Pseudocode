@@ -1,0 +1,8 @@
+Bei anlegen eines neuen Passwortes
+Hat Passwort mindestens 8 Zeichen 
+  wenn Nein Fehler sonst
+Hat Passwort mindestens ein Sonderzeichen
+  wenn Nein Fehler sonst
+Hat Passwort klein und Großbuchstaben
+  wenn Nein dann Fehler sonst
+Akzeptiere Passwort
